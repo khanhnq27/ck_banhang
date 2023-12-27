@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660364515299",
+    "project_id": "banhang-75f69",
+    "storage_bucket": "banhang-75f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660364515299:android:5838b6c0121cf806f132d6",
+        "android_client_info": {
+          "package_name": "com.example.appfoodv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMJuWRoVB65dZA9Xc3BWHnzXXA7gaeeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
